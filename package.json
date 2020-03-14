@@ -1,12 +1,12 @@
 {
-  "name": "docker-hapi",
+  "name": "nodejs-hapi",
   "version": "0.0.1",
-  "description": "A hapi example app running in docker",
+  "description": "A hapi example app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Amit Kirdatt",
+  "author": "Jai Kirdatt",
   "license": "MIT",
   "dependencies": {
     "@hapi/hapi": "^19.1.1",
